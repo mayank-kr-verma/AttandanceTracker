@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_classes_today"
+            android:icon="@drawable/ic_library_books"
+            android:title="Classes for Today" />
+        <item
+            android:id="@+id/nav_current_attendance"
+            android:icon="@drawable/ic_assessment"
+            android:title="Current Attendance" />
+    </group>
+
+    <item android:title="About">
+        <menu>
+            <item
+                android:id="@+id/nav_credits"
+                android:icon="@drawable/ic_about"
+                android:title="Credits" />
+            <item
+                android:id="@+id/nav_bugs"
+                android:icon="@drawable/ic_bugs"
+                android:title="Bugs" />
+        </menu>
+    </item>
+
+</menu>
