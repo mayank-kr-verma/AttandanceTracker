@@ -1,0 +1,149 @@
+[
+  {
+    "Day": "Monday",
+    "Time": 1130,
+    "Subject Code": "3MA106",
+    "Subject": "Discreet Mathematical Structures",
+    "Professor": "R. P. singh"
+  },
+  {
+    "Day": "Monday",
+    "Time": 1330,
+    "Subject Code": "3CS105",
+    "Subject": "Object Oriented Methodology",
+    "Professor": "Ditipriya Sinha"
+  },
+  {
+    "Day": "Monday",
+    "Time": 1430,
+    "Subject Code": "3EC103",
+    "Subject": "Digital Logic and Circuits",
+    "Professor": "Bharat Gupta"
+  },
+  {
+    "Day": "Tuesday",
+    "Time": 930,
+    "Subject Code": "3CS106",
+    "Subject": "Programming lab",
+    "Professor": "Ditipriya Sinha"
+  },
+  {
+    "Day": "Tuesday",
+    "Time": 1330,
+    "Subject Code": "3PH103",
+    "Subject": "Material Science & Technology",
+    "Professor": "S. K. Jaiswal"
+  },
+  {
+    "Day": "Tuesday",
+    "Time": 1430,
+    "Subject Code": "3CS105",
+    "Subject": "Object Oriented Methodology",
+    "Professor": "Ditipriya Sinha"
+  },
+  {
+    "Day": "Tuesday",
+    "Time": 1530,
+    "Subject Code": "3CH105A",
+    "Subject": "Bio Science",
+    "Professor": "Pradip Kumar Sukul"
+  },
+  {
+    "Day": "Wednesday",
+    "Time": 1130,
+    "Subject Code": "3CS105",
+    "Subject": "Object Oriented Methodology",
+    "Professor": "Ditipriya Sinha"
+  },
+  {
+    "Day": "Wednesday",
+    "Time": 1330,
+    "Subject Code": "3MA106",
+    "Subject": "Discreet Mathematical Structures",
+    "Professor": "R. P. singh"
+  },
+  {
+    "Day": "Wednesday",
+    "Time": 1430,
+    "Subject Code": "3PH103",
+    "Subject": "Material Science & Technology",
+    "Professor": "S. K. Jaiswal"
+  },
+  {
+    "Day": "Wednesday",
+    "Time": 1530,
+    "Subject Code": "3EC103",
+    "Subject": "Digital Logic and Circuits",
+    "Professor": "Bharat Gupta"
+  },
+  {
+    "Day": "Wednesday",
+    "Time": 1630,
+    "Subject Code": "3CH105A",
+    "Subject": "Bio Science",
+    "Professor": "Pradip Kumar Sukul"
+  },
+  {
+    "Day": "Thursday",
+    "Time": 830,
+    "Subject Code": "3CS105",
+    "Subject": "Object Oriented Methodology",
+    "Professor": "Ditipriya Sinha"
+  },
+  {
+    "Day": "Thursday",
+    "Time": 930,
+    "Subject Code": "3CS103",
+    "Subject": "Data Structures and Algorithms",
+    "Professor": "Dinesh Das"
+  },
+  {
+    "Day": "Thursday",
+    "Time": 1130,
+    "Subject Code": "3EC103",
+    "Subject": "Digital Logic and Circuits",
+    "Professor": "Bharat Gupta"
+  },
+  {
+    "Day": "Thursday",
+    "Time": 1330,
+    "Subject Code": "3EC104",
+    "Subject": "Digital Logic and Circuits Lab",
+    "Professor": "Bharat Gupta"
+  },
+  {
+    "Day": "Thursday",
+    "Time": 1630,
+    "Subject Code": "3PH103",
+    "Subject": "Material Science & Technology",
+    "Professor": "S. K. Jaiswal"
+  },
+  {
+    "Day": "Friday",
+    "Time": 1130,
+    "Subject Code": "3CH105A",
+    "Subject": "Bio Science",
+    "Professor": "Pradip Kumar Sukul"
+  },
+  {
+    "Day": "Friday",
+    "Time": 1330,
+    "Subject Code": "3CS103",
+    "Subject": "Data Structures and Algorithms",
+    "Professor": "Dinesh Das"
+  },
+  {
+    "Day": "Friday",
+    "Time": 1530,
+    "Subject Code": "3MA106",
+    "Subject": "Discreet Mathematical Structures",
+    "Professor": "R. P. singh"
+  },
+  {
+    "Day": "Friday",
+    "Time": 1630,
+    "Subject Code": "3EC103",
+    "Subject": "Digital Logic and Circuits",
+    "Professor": "Bharat Gupta"
+  }
+]
